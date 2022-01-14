@@ -1,8 +1,11 @@
 ## Welcome my website
 
-You can use the [editor on GitHub](https://github.com/tylermcdaniel/tylermcdaniel.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a sociologist interested in schools, race and space, and disasters. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Here](https://drive.google.com/file/d/14aY0HN5zfKkvqx1UXPaWMbti41_PsqSO/view?usp=sharing) is my cv. 
+
+This site is currently under construction, so bear with me!
+
 
 ### Markdown
 
@@ -23,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://drive.google.com/file/d/14aY0HN5zfKkvqx1UXPaWMbti41_PsqSO/view?usp=sharing) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
