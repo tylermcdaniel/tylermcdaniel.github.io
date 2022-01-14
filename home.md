@@ -14,6 +14,3 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-
-[https://drive.google.com/file/d/14aY0HN5zfKkvqx1UXPaWMbti41_PsqSO/view?usp=sharing](cv)
