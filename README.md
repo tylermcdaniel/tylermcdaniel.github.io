@@ -3,4 +3,4 @@ Welcome to my website! I am a phd student studying sociology. I mostly work on i
 [Here](https://drive.google.com/file/d/14aY0HN5zfKkvqx1UXPaWMbti41_PsqSO/view?usp=sharing) is my cv. 
 
 
-![Picture](/tylermcdaniel.github.io/IMG_0713(2).JPG)
+![Picture](/tylermcdaniel.github.io/IMG_0713 (2).JPG)
