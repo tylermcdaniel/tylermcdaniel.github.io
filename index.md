@@ -10,7 +10,7 @@ Much of my research focuses on spatial inequality in the twenty-first century. I
 _A closed school in Jones County, NC (2022)_.
 
 ## Teaching
-I recently taught a course called _Analytics for a Changing Climate: Introduction to Social Data Science_. Course materials can be found [here](https://bookdown.org/tylermc/soc128d/).
+I recently taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). Please reach out if you would like to use any course materials or collaborate!
 
 I also regularly teach with the [Stanford Jail and Prison Education Program](https://sjpep.weebly.com/).
 
