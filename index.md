@@ -3,8 +3,9 @@ Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdani
 
 ## Research
 
-Much of my research focuses on spatial inequality in the twenty-first century. In [a review article](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030420-014126), Jackelyn Hwang and I discuss scholarship on the persistence of racial residential segregation amidst neighborhood change. We outline three mechanisms that perpetuate these processes: resource inequalities, enduring ethnoracial hierarchies, and consolidated institutional power.
+Much of my research focuses on spatial inequality in the twenty-first century. In [__a review article__](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030420-014126), Jackelyn Hwang and I discuss scholarship on the persistence of racial residential segregation amidst neighborhood change. We outline three mechanisms that perpetuate these processes: resource inequalities, enduring ethnoracial hierarchies, and consolidated institutional power.
 
+My dissertation considers how climate disasters relate to spatial inequalities in homes and schools. Using statewide student records from North Carolina, and fine-grain flooding information, I look at the impacts of hurricane flooding on student mobility patterns through homes and schools, what these mean for broader patterns of segregation, and how repeated exposure to disasters affects academic progression.  
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
