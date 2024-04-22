@@ -4,6 +4,10 @@ Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdani
 ## Research
 ![Jones](jones.jpg)
 
+## Teaching
+I recently taught a course called _Analytics for a Changing Climate: Introduction to Social Data Science_. Course materials can be found [here](https://bookdown.org/tylermc/soc128d/).
+
+I also regularly teach with the [Stanford Jail and Prison Education Project](https://sjpep.weebly.com/).
 
 ## CV
 You can find a current copy of my CV [here](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
