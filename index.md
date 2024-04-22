@@ -2,7 +2,12 @@
 Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdaniel) in the Department of Sociology at Stanford University. I am also a member of the [Center for Education Policy Analysis](https://cepa.stanford.edu/people/tyler-mcdaniel) and the [Changing Cities Research Lab](https://ccrl.stanford.edu/team). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
 
 ## Research
+
+Much of my research focuses on spatial inequality in the twenty-first century. In [a review article](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030420-014126), Jackelyn Hwang and I discuss scholarship on the persistence of racial residential segregation amidst neighborhood change. We outline three mechanisms that perpetuate these processes: resource inequalities, enduring ethnoracial hierarchies, and consolidated institutional power.
+
+
 ![Jones](jones.jpg)
+_A closed school in Jones County, NC (2022)_.
 
 ## Teaching
 I recently taught a course called _Analytics for a Changing Climate: Introduction to Social Data Science_. Course materials can be found [here](https://bookdown.org/tylermc/soc128d/).
