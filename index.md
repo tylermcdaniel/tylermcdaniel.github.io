@@ -1,5 +1,5 @@
 ## About Me
-Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdaniel) in the Department of Sociology at Stanford University. I am also a member of the [Center for Education Policy Analysis](https://cepa.stanford.edu/people/tyler-mcdaniel) and the [Changing Cities Research Lab](https://ccrl.stanford.edu/team). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
+Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdaniel) in the Department of Sociology at Stanford University. I am also a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/people/tyler-mcdaniel) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/team). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
 
 ## Research
 
@@ -13,7 +13,7 @@ _A closed school in Jones County, NC (2022)_.
 ## Teaching
 I recently taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). Please reach out if you would like to use any course materials or collaborate!
 
-I also regularly teach with the [Stanford Jail and Prison Education Program](https://sjpep.weebly.com/).
+I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
 ## CV
 You can find a current copy of my CV [here](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
