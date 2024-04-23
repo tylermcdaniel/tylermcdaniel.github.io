@@ -15,6 +15,12 @@ I recently taught a course called [__Analytics for a Changing Climate: Introduct
 
 I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
+## Data and Materials
+
+I wrote a helper function for loading Common Core Data from [NCES' Elementary and Secondary Information System](https://nces.ed.gov/ccd/elsi/). You can find the function [here](https://github.com/tylermcdaniel/tidy_elsi).
+
+A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [here](https://purl.stanford.edu/sy352sf3635).
+
 ## CV
 You can find a current copy of my CV [here](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
 
