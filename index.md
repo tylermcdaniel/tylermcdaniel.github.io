@@ -1,5 +1,5 @@
 ## About Me
-Hello! I am a [PhD Candidate](https://sociology.stanford.edu/people/tyler-mcdaniel) in the Department of Sociology at Stanford University. I am also a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/people/tyler-mcdaniel) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/team). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
+Hello! I am a [__PhD Candidate__](https://sociology.stanford.edu/people/tyler-mcdaniel) in the Department of Sociology at Stanford University. I am also a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/people/tyler-mcdaniel) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/team). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
 
 ## Research
 
@@ -17,10 +17,10 @@ I also regularly teach with the [__Stanford Jail and Prison Education Program__]
 
 ## Data and Materials
 
-I wrote a helper function for loading Common Core Data from [NCES' Elementary and Secondary Information System](https://nces.ed.gov/ccd/elsi/). You can find the function [here](https://github.com/tylermcdaniel/tidy_elsi).
+I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
 
 A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [here](https://purl.stanford.edu/sy352sf3635).
 
 ## CV
-You can find a current copy of my CV [here](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
+You can find a current copy of my CV [__here__](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
 
