@@ -21,6 +21,3 @@ I wrote a helper function for loading Common Core Data from [__NCES' Elementary 
 
 A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [__here__](https://purl.stanford.edu/sy352sf3635).
 
-## CV
-You can find a current copy of my CV [__here__](https://drive.google.com/file/d/1wFy9AjQ7epqpJmCIjmSmYWA8pImbJnyr/view?usp=sharing). 
-
