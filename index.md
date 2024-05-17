@@ -15,8 +15,8 @@ I recently taught a course called [__Analytics for a Changing Climate: Introduct
 
 I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
-![Dubois](dubois.jpg)
-_A mural in Niagra Falls, NY (2022)_.
+<>![Dubois](dubois.jpg)
+<>_A mural in Niagra Falls, NY (2022)_.
 
 ## Data and Materials
 
