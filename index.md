@@ -15,9 +15,6 @@ I recently taught a course called [__Analytics for a Changing Climate: Introduct
 
 I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
-[comment]: <> ![Dubois](dubois.jpg)
-[comment]: <> _A mural in Niagra Falls, NY (2022)_.
-
 ## Data and Materials
 
 I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
