@@ -46,12 +46,9 @@
 
   <div id="main" role="main">
   <article class="entry">
-  {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}"{% endif %}
-  // Alternatively a simpler way will be to just include the img src code. 
   <img class="feature-img" src="{{ 'assets/background.svg' | relative_url }}" />
-  // Whole bunch of code for body here
   </article> 
-</div>
+  </div>
 
       {{ content }}
 
