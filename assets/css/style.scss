@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 body {
     background-image: url('assets/background.svg'); /* Path to your image */
     background-size: cover; /* Adjusts the image to cover the entire background */
