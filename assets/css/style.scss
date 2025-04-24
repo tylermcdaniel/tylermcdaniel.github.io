@@ -1,5 +1,7 @@
 ---
 ---
+@import "{{ site.theme }}";
+
 body {
     background-color: coral;
     background-image: url('../assets/images/background.png'); /* Path to your image */
@@ -8,4 +10,3 @@ body {
     background-repeat: repeat; /* Prevents tiling of the image */
 /*    cursor: all-scroll; */
 }
-@import "{{ site.theme }}";
