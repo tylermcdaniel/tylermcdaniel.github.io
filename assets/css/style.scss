@@ -3,7 +3,8 @@
 @import "{{ site.theme }}";
 
 body {
-    background-image: url('../assets/images/background.svg'); /* Path to your image */
+/*    background-color: coral; */
+    background-image: url('../assets/images/background.png'); /* Path to your image */
     background-size: cover; /* Adjusts the image to cover the entire background */
     background-position: center; /* Centers the image */
     background-repeat: repeat; /* Prevents tiling of the image */
