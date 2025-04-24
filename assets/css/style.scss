@@ -5,6 +5,6 @@ body {
     background-size: cover; /* Adjusts the image to cover the entire background */
     background-position: center; /* Centers the image */
     background-repeat: repeat; /* Prevents tiling of the image */
-    cursor: all-scroll;
+/*    cursor: all-scroll; */
 }
 @import "{{ site.theme }}";
