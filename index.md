@@ -1,7 +1,7 @@
-## About Me
+# About Me
 I am a PhD Candidate in the Department of Sociology at Stanford University. I am also a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). I mostly work on issues related to segregation, climate change, and schools. My dissertation examines how the changing climate influences spatial inequalities in educational opportunity, through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. 
 
-## Research
+# Research
 
 ### Spatial Inequalities 
 
@@ -14,12 +14,12 @@ My dissertation considers how climate disasters relate to spatial inequalities i
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
 
-## Teaching
+# Teaching
 I recently taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). Please reach out if you would like to use any course materials or collaborate!
 
 I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
-## Data and Materials
+# Data and Materials
 
 I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
 
