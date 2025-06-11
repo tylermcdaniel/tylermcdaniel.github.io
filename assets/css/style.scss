@@ -3,10 +3,10 @@
 @import "{{ site.theme }}";
  
 body {
-    background-color: lightgrey; 
+  /*  background-color: lightgrey; */
     background-image: url('/background1.svg'); /* Path to your image */  
-    background-size: cover; /* Adjusts the image to cover the entire background */
+    background-size: cover;  Adjusts the image to cover the entire background 
     background-position: center; /* Centers the image */
-    background-repeat: repeat; /* Prevents tiling of the image */
+    background-repeat: repeat-y; /* Prevents tiling of the image */
 /*    cursor: all-scroll; */
 }
