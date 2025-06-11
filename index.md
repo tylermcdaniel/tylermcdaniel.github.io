@@ -16,7 +16,7 @@ In a descriptive paper, I find a _loose coupling_ between flood risks in student
 Next, I investigate student mobility in North Carolina following hurricane flooding and the implications for ethnoracial segregation in homes
 and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events may be segregating forces in homes and schools. 
 
-I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, wh some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential ``cumulative disadvantages" of repeated exposure to climate hazards.   
+I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential "cumulative disadvantages" of repeated exposure to climate hazards.   
 
 In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I include schools outside of North Carolina, including those impacted by Hurricanes Sandy and Harvey, in order to assess broader disaster recovery trends. 
 
