@@ -5,8 +5,8 @@
 body {
 /*    background-color: lightgrey; */
     background-image: url('/background1.svg'); /* Path to your image */  
-    background-size: contain; /* Adjusts the image to cover the entire background */
- /*   background-position: center; /* Centers the image */
+    background-size: cover; /* Adjusts the image to cover the entire background */
+    background-position: center; /* Centers the image */
  /*   background-repeat: repeat-y; /* Prevents tiling of the image */
 /*    cursor: all-scroll; */
 }
