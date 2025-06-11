@@ -30,7 +30,7 @@ I am also interested in other ways to assess social processes of inequality. In 
 ## Teaching
 I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
 
-I have also served as a teaching assistant for several classes, including:
+I have also served as a teaching assistant for classes such as:
 * Computational Social Science
 * Economic Sociology
 * Social Psychology
