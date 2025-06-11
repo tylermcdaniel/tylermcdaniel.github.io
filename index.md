@@ -13,15 +13,27 @@ My dissertation considers how climate disasters relate to spatial inequalities i
 
 In a descriptive paper, I find a _loose coupling_ between flood risks in students' homes and schools. In other words, most students who experience flooding in one of these settings do not experience flooding in the other setting. This is likely driven by small-scale differences in geographic features, floodplain management, and land development. As students face increasing risks of disastrous flooding, this finding has implications for efforts to provide shelter and resources to affected populations. 
 
+Next, I investigate student mobility in North Carolina following hurricane flooding and the implications for ethnoracial segregation in homes
+and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events may be segregating forces in homes and schools. 
+
+I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, wh some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential ``cumulative disadvantages" of repeated exposure to climate hazards.   
+
+In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I include schools outside of North Carolina, including those impacted by Hurricanes Sandy and Harvey, in order to assess broader disaster recovery trends. 
 
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
 
 ## Teaching
-I recently taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). Please reach out if you would like to use any course materials or collaborate!
+I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). Please reach out if you would like to use any course materials or collaborate!
 
-I also regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
+I have also served as a teaching assistant for several classes, including:
+* Computational Social Science
+* Economic Sociology
+* Social Psychology
+* Statistics
+
+I regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
 ## Data and Materials
 
