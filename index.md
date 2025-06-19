@@ -1,5 +1,5 @@
 ## Bio
-I am a PhD Candidate in the Department of Sociology at Stanford University. I mostly work on issues related to spatial inequality, climate hazards, and schools. For my dissertation, I focus on my home state of North Carolina to explore how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
+I am a PhD Candidate in the Department of Sociology at Stanford University. I mostly work on issues related to spatial inequality, climate hazards, and schools. In my dissertation, I focus on my home state of North Carolina to explore how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
 
 ## Research
 
@@ -13,19 +13,18 @@ My dissertation considers how climate disasters relate to spatial inequalities i
 
 In a descriptive paper, I find a _loose coupling_ between flood risks in students' homes and schools. In other words, most students who experience flooding in one of these settings do not experience flooding in the other setting. This is likely driven by small-scale differences in geographic features, floodplain management, and land development. As students face increasing risks of disastrous flooding, this finding has implications for efforts to provide shelter and resources to affected populations. 
 
-Next, I investigate student mobility in North Carolina following hurricane flooding and the implications for ethnoracial segregation in homes
-and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events may be segregating forces in homes and schools. 
+Next, I investigate student mobility in North Carolina following hurricane flooding and the implications for ethnoracial segregation in homes and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events are linked to residential and school segregation. 
 
 I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential "cumulative disadvantages" of repeated exposure to climate hazards.   
 
-In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I include schools outside of North Carolina, including those impacted by Hurricanes Sandy and Harvey, in order to assess broader disaster recovery trends. 
+In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I include schools outside of North Carolina to assess broader disaster recovery trends. 
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
 
 
 #### Other Inequalities
-I am also interested in other ways to assess social processes of inequality. In [__a recent paper__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514), Florencia Torche, Alisa Feldman, and I assess marital surname choices using natality records from the state of New Jersey. We find evidence for _doing gender_, with both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - being more likely to make conventional surname choices than their homogomous peers.  
+I am also interested in other ways to assess social processes of inequality. In [__a_new_paper__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) Florencia Torche, Alisa Feldman, and I assess marital surname choices using natality records from the state of New Jersey. We find evidence for _doing gender_, with both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - being more likely to make conventional surname choices than their homogomous peers.  
 
 ## Teaching
 I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
