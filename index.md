@@ -24,7 +24,7 @@ _A closed school in Jones County, NC (2022)_.
 
 
 #### Other Inequalities
-I am also interested in other ways to assess social processes of inequality. In [__a new paper__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) Florencia Torche, Alisa Feldman, and I assess marital surname choices using natality records from the state of New Jersey. We find evidence for _doing gender_, with both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - being more likely to make conventional surname choices than their homogomous peers.  
+I am also interested in other ways to assess social processes of inequality. In [__a paper__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) Florencia Torche, Alisa Feldman, and I assess marital surname choices using natality records from the state of New Jersey. We find evidence for _doing gender_, with both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - being more likely to make conventional surname choices than their homogomous peers.  
 
 ## Teaching
 I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
