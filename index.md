@@ -1,5 +1,5 @@
 ## Bio
-I am a PhD Candidate in the Department of Sociology at Stanford University. I mostly work on issues related to spatial inequality, climate hazards, and schools. In my dissertation, I focus on my home state of North Carolina to explore how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
+I am a PhD Candidate in the Department of Sociology at Stanford University. I mostly work on issues related to spatial inequality, climate hazards, and schools. In my dissertation, I focus on the state of North Carolina to explore how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
 
 ## Research
 
@@ -13,11 +13,11 @@ My dissertation considers how climate disasters relate to spatial inequalities i
 
 In [__a descriptive paper__](https://shs.cairn.info/revue-l-annee-sociologique-2025-2-page-67?lang=en), I find a _loose coupling_ between flood risks in students' homes and schools. In other words, most students who experience flooding in one of these settings do not experience flooding in the other setting. This is likely driven by small-scale differences in geographic features, floodplain management, and land development. As students face increasing risks of disastrous flooding, this finding has implications for efforts to provide shelter and resources to affected populations. 
 
-Next, I investigate student mobility in North Carolina following hurricane flooding and the implications for ethnoracial segregation in homes and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events are linked to residential and school segregation. 
+Next, I investigate student mobility following hurricane flooding and the implications for ethnoracial segregation in homes and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events are linked to residential and school segregation. 
 
 I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential "cumulative disadvantages" of repeated exposure to climate hazards.   
 
-In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I include schools outside of North Carolina to assess broader disaster recovery trends. 
+In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I assess broader disaster recovery trends among a set of schools affected by eleven of the most severe disasters of the 2010s. 
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
