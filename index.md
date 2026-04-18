@@ -27,7 +27,7 @@ _A closed school in Jones County, NC (2022)_.
 I am also interested in other ways to assess social processes of inequality. Florencia Torche, Alisa Feldman, and I [__assess__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) marital surname choices using natality records from the state of New Jersey. We find that couples _do gender_ when it comes to surname choices: both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - are more likely to make conventional surname choices than homogomous couples.  
 
 ## Teaching
-I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
+I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. I am currently teaching [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). Please reach out if you would like to use any course materials or collaborate!
 
 I have also served as a teaching assistant for classes such as:
 * Computational Social Science
@@ -35,11 +35,13 @@ I have also served as a teaching assistant for classes such as:
 * Social Psychology
 * Statistics
 
-I regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
+Last, but not least, I regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
 
 ## Data and Materials
 
 I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
+
+A replication package for my paper on residential and school flood risks is available [__here__](https://doi.org/10.25740/wm174cp9547).
 
 A replication package for my paper on activity spaces and school enrollments is available [__here__](https://purl.stanford.edu/sj315mc0440).
 
