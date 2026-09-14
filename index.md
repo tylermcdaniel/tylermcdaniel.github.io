@@ -55,6 +55,6 @@ In the course of my research, I've sometimes come across facts that are usually 
 
 * [__In North Carolina__](https://www.tandfonline.com/doi/full/10.1080/01944363.2022.2141821), new homes built in the floodplains outnumber homes subtracted from the floodplains by a margin of about 10:1.
 * [__On average__](https://www.nature.com/articles/s41586-024-07945-5), hurricanes cause about 24 direct deaths - but as many as 7,000-11,000 indirect deaths.
-* [__It is estimated__](https://19january2021snapshot.epa.gov/brownfields/frequently-asked-questions_.html#Without%20a%20national%20inventory%20of%20all%20brownfield%20sites,%20why%20does%20EPA%20think%20there%20could%20be%20somewhere%20between%20450,000-1%20million%20brownfield%20sites%20in%20the%20U.S.?) that between 450,000 and 1 million "brownfields" - sites where hazardous materials have been used - exist in the U.S. The EPA only only has data on about 40,000 of these. 
+* [__It is estimated__](https://19january2021snapshot.epa.gov/brownfields/frequently-asked-questions_.html#Without%20a%20national%20inventory%20of%20all%20brownfield%20sites,%20why%20does%20EPA%20think%20there%20could%20be%20somewhere%20between%20450,000-1%20million%20brownfield%20sites%20in%20the%20U.S.?) that between 450,000 and 1 million "brownfields" - sites where hazardous materials have been used - exist in the U.S. The EPA has data on about 40,000 of these. 
 
 
