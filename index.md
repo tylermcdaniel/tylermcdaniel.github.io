@@ -17,7 +17,7 @@ In [__a descriptive paper__](https://shs.cairn.info/journal-l-annee-sociologique
 
 I then investigate student mobility following hurricane flooding and the implications for ethnoracial segregation in homes and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events are linked to residential and school segregation. 
 
-I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. In [__a recent article__](https://www.rsfjournal.org/content/12/4/156), I comparing these students' attendance and learning outcomes over time to measure potential "cumulative disadvantages" of repeated exposure to climate hazards. I find that repeated storms neither exacerbate nor ameliorate the effects of the disasters on attendance and learning, and that district-wide closures appear to drive negative effects (rather than residential flooding). This paper suggests that students will continue to experience setbacks as climate hazards become more common, and that efforts to minimize district-wide impacts would likely benefit a lot of students.   
+I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. In [__a recent article__](https://www.rsfjournal.org/content/12/4/156), I compare these students' attendance and learning outcomes over time to measure potential "cumulative disadvantages" of repeated exposure to climate hazards. I find that repeated storms neither exacerbate nor ameliorate the effects of the disasters on attendance and learning, and that district-wide closures appear to drive negative effects (rather than residential flooding). The paper suggests that students will continue to experience setbacks as climate hazards become more common, but that much of the negative impacts might be avoided by minimizing district-wide disruptions.   
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
@@ -43,11 +43,16 @@ I wrote a helper function for loading Common Core Data from [__NCES' Elementary 
 
 I strive to make my materials openly accessible wherever possible. Below are replication packages for papers I have worked on: 
 
-* A replication package for my paper on the impacts of repeated hazards is available [__here__](https://doi.org/10.25740/rc440ck2094).
+* [__Data and code for my paper on the impacts of repeated hazards__](https://doi.org/10.25740/rc440ck2094).
+* [__Data and code for my paper on residential and school flood risks__](https://doi.org/10.25740/wm174cp9547).
+* [__Data and code for my paper on activity spaces and school enrollments__](https://purl.stanford.edu/sj315mc0440).
+* [__Data and code for descriptive analyses on metropolitan residential racial segregation between 1980-2020__](https://purl.stanford.edu/sy352sf3635).
 
-* A replication package for my paper on residential and school flood risks is available [__here__](https://doi.org/10.25740/wm174cp9547).
 
-* A replication package for my paper on activity spaces and school enrollments is available [__here__](https://purl.stanford.edu/sj315mc0440).
+## Some Facts about Populations and the Environment
 
-* A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [__here__](https://purl.stanford.edu/sy352sf3635).
+In the course of my research, I've sometimes come across facts that are usually not fun, but are shocking, important, or otherwise things that people should maybe know. I've included a few of these below: 
+
+
+
 
