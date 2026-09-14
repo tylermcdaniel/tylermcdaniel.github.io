@@ -43,18 +43,18 @@ I wrote a helper function for loading Common Core Data from [__NCES' Elementary 
 
 I strive to make my materials openly accessible wherever possible. Below are replication packages for papers I have worked on: 
 
-* [__Data and code for my paper on the impacts of repeated hazards__](https://doi.org/10.25740/rc440ck2094).
-* [__Data and code for my paper on residential and school flood risks__](https://doi.org/10.25740/wm174cp9547).
-* [__Data and code for my paper on activity spaces and school enrollments__](https://purl.stanford.edu/sj315mc0440).
-* [__Data and code for descriptive analyses on metropolitan residential racial segregation between 1980-2020__](https://purl.stanford.edu/sy352sf3635).
+* [__Data and code__](https://doi.org/10.25740/rc440ck2094) for my paper on the impacts of repeated hazards.
+* [__Data and code__](https://doi.org/10.25740/wm174cp9547) for my paper on residential and school flood risks.
+* [__Data and code__](https://purl.stanford.edu/sj315mc0440) for my paper on activity spaces and school enrollments.
+* [__Data and code__](https://purl.stanford.edu/sy352sf3635) for descriptive analyses on metropolitan residential racial segregation between 1980-2020.
 
 
 ## Some Facts about Populations and the Environment
 
 In the course of my research, I've sometimes come across facts that are usually not fun, but are shocking, important, or otherwise things that people should maybe know. I use the space below to highlight work that has caused me to seriously re-evaluate what I know about populations and the environment.  
 
-* [In North Carolina](https://www.tandfonline.com/doi/full/10.1080/01944363.2022.2141821), new homes built in the floodplains outnumber homes subtracted from the floodplains by a margin of about 10:1.
-* [On average](https://www.nature.com/articles/s41586-024-07945-5), hurricanes cause about 24 direct deaths - but as many as 7,000-11,000 indirect deaths.
-* [It is estimated](https://19january2021snapshot.epa.gov/brownfields/frequently-asked-questions_.html#Without%20a%20national%20inventory%20of%20all%20brownfield%20sites,%20why%20does%20EPA%20think%20there%20could%20be%20somewhere%20between%20450,000-1%20million%20brownfield%20sites%20in%20the%20U.S.?) that between 450,000 and 1 million "brownfields" - sites where hazardous materials have been used - exist in the U.S. The EPA only only has data on about 40,000 of these. 
+* [__In North Carolina__](https://www.tandfonline.com/doi/full/10.1080/01944363.2022.2141821), new homes built in the floodplains outnumber homes subtracted from the floodplains by a margin of about 10:1.
+* [__On average__](https://www.nature.com/articles/s41586-024-07945-5), hurricanes cause about 24 direct deaths - but as many as 7,000-11,000 indirect deaths.
+* [__It is estimated__](https://19january2021snapshot.epa.gov/brownfields/frequently-asked-questions_.html#Without%20a%20national%20inventory%20of%20all%20brownfield%20sites,%20why%20does%20EPA%20think%20there%20could%20be%20somewhere%20between%20450,000-1%20million%20brownfield%20sites%20in%20the%20U.S.?) that between 450,000 and 1 million "brownfields" - sites where hazardous materials have been used - exist in the U.S. The EPA only only has data on about 40,000 of these. 
 
 
