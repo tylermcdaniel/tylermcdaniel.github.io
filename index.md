@@ -1,33 +1,33 @@
 ## Bio
-I am a PhD Candidate in the Department of Sociology at Stanford University, where I study spatial inequalities, climate hazards, and the sociology of education. In my dissertation, I focus on how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a member of the [__Center for Education Policy Analysis__](https://cepa.stanford.edu/) and the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
+I am a sociologist who studies spatial inequalities, climate hazards, and the sociology of education. In my research, I focus on how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs/about.html) and an alumni of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
 
 ## Research
 
 #### Activities, Schools, and Segregation
  
-Much of my research examines spatial inequality in the twenty-first century. In [__a recent paper__](https://journals.sagepub.com/doi/10.1177/23780231251322006), I investigate how _activity spaces_ -- the places where people work, recreate, worship, shop, etc. -- relate to school enrollments in Los Angeles, where school choice is prevalent. I find that families are more likely to enroll in schools near previous activities, and that segregating activities predict segregating school enrollments. In [__a review article__](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030420-014126), Jackelyn Hwang and I discuss scholarship on the persistence of racial residential segregation amidst neighborhood change. We outline three mechanisms that perpetuate these processes: resource inequalities, enduring ethnoracial hierarchies, and consolidated institutional power.
+Much of my research examines spatial inequality in the twenty-first century. In [__one paper__](https://journals.sagepub.com/doi/10.1177/23780231251322006), I investigate how _activity spaces_ -- the places where people work, recreate, worship, shop, etc. -- relate to school enrollments in Los Angeles, where school choice is prevalent. I find that families are more likely to enroll in schools near previous activities, and that segregating activities predict segregating school enrollments. In [__a review article__](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030420-014126), Jackelyn Hwang and I discuss scholarship on the persistence of racial residential segregation amidst neighborhood change. We outline three mechanisms that perpetuate these processes: resource inequalities, enduring ethnoracial hierarchies, and consolidated institutional power.
 
 #### Climate Disasters and Spatial Inequalities in Education
 
 My dissertation covers how climate disasters relate to spatial inequalities in education. Using statewide student records from North Carolina, fine-grain flooding information, and other demographic and geographic data, I look at the impacts of hurricane flooding on student mobility patterns through homes and schools, what these mean for broader patterns of segregation, and how repeated exposure to disasters affects academic progression.  
 
+In my first dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I assess broader disaster recovery trends among a set of schools affected by eleven of the most severe disasters of the 2010s. 
+
 In [__a descriptive paper__](https://shs.cairn.info/journal-l-annee-sociologique-2025-2-page-67?lang=en), I find _loose coupling_ between flood risks in students' homes and schools. In other words, most students who experience flooding in one of these settings do not experience flooding in the other setting. This is likely driven by small-scale differences in geographic features, floodplain management, and land development. As students face increasing risks of disastrous flooding, this finding has implications for efforts to provide shelter and resources to affected populations. 
 
 I then investigate student mobility following hurricane flooding and the implications for ethnoracial segregation in homes and schools. While several studies have found that climate disasters are associated with demographic change, there is little empirical evidence of whether and how these events are linked to residential and school segregation. 
 
-I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. By comparing these students' attendance and learning outcomes over time, I measure potential "cumulative disadvantages" of repeated exposure to climate hazards.   
-
-In my final dissertation paper, I measure post-disaster school enrollment trajectories and compositional changes. For this analysis, I assess broader disaster recovery trends among a set of schools affected by eleven of the most severe disasters of the 2010s. 
+I also explore the effects of repeated climate hazards on academic outcomes. Two storms - Hurricanes Matthew and Florence - hit Eastern North Carolina in 2016 and 2018, respectively. Some students were affected by both storms, while some were affected by only one. In [__a recent article__](https://www.rsfjournal.org/content/12/4/156), I comparing these students' attendance and learning outcomes over time to measure potential "cumulative disadvantages" of repeated exposure to climate hazards. I find that repeated storms neither exacerbate nor ameliorate the effects of the disasters on attendance and learning, and that district-wide closures appear to drive negative effects (rather than residential flooding). This paper suggests that students will continue to experience setbacks as climate hazards become more common, and that efforts to minimize district-wide impacts would likely benefit a lot of students.   
 
 ![Jones](jones.jpg)
 _A closed school in Jones County, NC (2022)_.
 
 
 #### Other Inequalities
-I am also interested in other ways to assess social processes of inequality. Florencia Torche, Alisa Feldman, and I [__assess__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) marital surname choices using natality records from the state of New Jersey. We find that couples _do gender_ when it comes to surname choices: both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - are more likely to make conventional surname choices than homogomous couples.  
+I am also interested in other ways to assess social processes of inequality. Florencia Torche, Alisa Feldman, and I [__assess__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) marital surname choices using natality records from the state of New Jersey. We find that couples _do gender_ when it comes to surname choices: both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - are more likely to make conventional surname choices than homogomous couples. Florencia Torche, Tessa Holzman, and I [__extend__](https://www.sciencedirect.com/science/article/pii/S0049089X26000050?via%3Dihub) this work to document a decline in patrilineal surname practices for children.  
 
 ## Teaching
-I designed and taught a course called [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/). The course introduces students to R and to data science more broadly, using examples from environmental justice and climate science. I am currently teaching [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). Please reach out if you would like to use any course materials or collaborate!
+I designed and taught courses such as [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/) and [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). These courses introduce students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
 
 I have also served as a teaching assistant for classes such as:
 * Computational Social Science
@@ -41,9 +41,13 @@ Last, but not least, I regularly teach with the [__Stanford Jail and Prison Educ
 
 I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
 
-A replication package for my paper on residential and school flood risks is available [__here__](https://doi.org/10.25740/wm174cp9547).
+I strive to make my materials openly accessible wherever possible. Below are replication packages for papers I have worked on: 
 
-A replication package for my paper on activity spaces and school enrollments is available [__here__](https://purl.stanford.edu/sj315mc0440).
+* A replication package for my paper on the impacts of repeated hazards is available [__here__](https://doi.org/10.25740/rc440ck2094).
 
-A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [__here__](https://purl.stanford.edu/sy352sf3635).
+* A replication package for my paper on residential and school flood risks is available [__here__](https://doi.org/10.25740/wm174cp9547).
+
+* A replication package for my paper on activity spaces and school enrollments is available [__here__](https://purl.stanford.edu/sj315mc0440).
+
+* A replication package for descriptive analyses on metropolitan residential racial segregation between 1980-2020 is available [__here__](https://purl.stanford.edu/sy352sf3635).
 
