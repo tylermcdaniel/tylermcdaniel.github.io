@@ -1,5 +1,5 @@
 ## Bio
-I am a sociologist who studies populations, climate hazards, and inequalities. In my research, I focus on how the changing climate influences spatial inequalities in educational opportunity through mechanisms such as unequal disruptions to schooling, differential rates of residential or school displacement, and uneven recoveries to natural disasters across places. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs/about.html) and an alumni of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
+I am a sociologist who studies populations, climate hazards, and inequalities. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs/about.html) and an alumnus of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
 
 ## Research
 
