@@ -49,9 +49,9 @@ I strive to make my materials openly accessible wherever possible. Below are rep
 * [__Data and code__](https://purl.stanford.edu/sy352sf3635) for descriptive analyses on metropolitan residential racial segregation between 1980-2020.
 
 
-## Some Facts about Populations and the Environment
+## Facts about Populations and the Environment
 
-In the course of my research, I've sometimes come across facts that are usually not fun, but are shocking, important, or otherwise things that people should maybe know. I use the space below to highlight work that has caused me to seriously re-evaluate what I know about populations and the environment.  
+In the course of my research, I sometimes come across facts that are shocking, important, or otherwise things that people should maybe know. (Unfortunately, they are usually not fun). I use the space below to highlight some of these.  
 
 * [__In North Carolina__](https://www.tandfonline.com/doi/full/10.1080/01944363.2022.2141821), new homes built in the floodplains outnumber homes subtracted from the floodplains by a margin of about 10:1.
 * [__On average__](https://www.nature.com/articles/s41586-024-07945-5), hurricanes cause about 24 direct deaths - but as many as 7,000-11,000 indirect deaths.
