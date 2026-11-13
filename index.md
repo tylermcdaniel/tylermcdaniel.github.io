@@ -4,16 +4,9 @@ I am a sociologist who studies the formation of spatial inequalities. I am a Pos
 ## Teaching
 In Spring 2027, I am teaching Introduction to Data Science with R and Environmental Demography. 
 
-In the past, I have designed and taught courses such as [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/) and [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). These courses introduce students to R and to data science more broadly, using examples from environmental justice and climate science. You are welcome to use or repurpose these materials for non-commercial purposes with proper attribution. 
+In the past, I have designed and taught courses such as [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/) and [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). These courses introduce students to R and to data science more broadly, using examples from environmental justice and climate science. You are welcome to use or repurpose these materials for non-commercial purposes with proper attribution. Please reach out if you would like to collaborate!  
 
-
-I have also taught with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/) and served as a teaching assistant for sociology classes such as:
-* Computational Social Science
-* Economic Sociology
-* Social Psychology
-* Statistics
-
-Please reach out if you would like to collaborate!
+I have also served as a teaching assistant for classes in computational social science, economic sociology, social psychology, and statistics; and taught several classes with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/). 
 
 ## Research
 
