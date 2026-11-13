@@ -1,5 +1,19 @@
 ## Bio
-I am a sociologist who studies populations, climate hazards, and inequalities. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs.html) and an alumnus of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). 
+I am a sociologist who studies the formation of spatial inequalities. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs.html) and an alumnus of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). In 2027, I will be a Visiting Assistant Professor in the [__Environmental Analysis__](https://www.scrippscollege.edu/departments/environmental-analysis-program) program at Scripps College. 
+
+## Teaching
+In Spring 2027, I am teaching Introduction to Data Science with R and Environmental Demography. 
+
+In the past, I have designed and taught courses such as [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/) and [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). These courses introduce students to R and to data science more broadly, using examples from environmental justice and climate science. You are welcome to use or repurpose these materials for non-commercial purposes with proper attribution. 
+
+
+I have also taught with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/) and served as a teaching assistant for sociology classes such as:
+* Computational Social Science
+* Economic Sociology
+* Social Psychology
+* Statistics
+
+Please reach out if you would like to collaborate!
 
 ## Research
 
@@ -26,17 +40,6 @@ _A closed school in Jones County, NC (2022)_.
 #### Other Inequalities
 I am also interested in other ways to assess social processes of inequality. Florencia Torche, Alisa Feldman, and I [__assess__](https://www.sciencedirect.com/science/article/abs/pii/S0276562425000514) marital surname choices using natality records from the state of New Jersey. We find that couples _do gender_ when it comes to surname choices: both hypergamous couples - those in which the husband has higher status than the wife - and hypogomous couples - those in which the wife has more status - are more likely to make conventional surname choices than homogomous couples. Florencia Torche, Tessa Holtzman, and I [__extend__](https://www.sciencedirect.com/science/article/pii/S0049089X26000050?via%3Dihub) this work to document a decline in patrilineal surname practices for children.  
 
-## Teaching
-I designed and taught courses such as [__Analytics for a Changing Climate: Introduction to Social Data Science__](https://bookdown.org/tylermc/soc128d/) and [__Introduction to Computational Social Science__](https://019c932f-6501-a8d5-bac5-df7f6ede5a76.share.connect.posit.cloud/index.html). These courses introduce students to R and to data science more broadly, using examples from environmental justice and climate science. Please reach out if you would like to use any course materials or collaborate!
-
-I have also served as a teaching assistant for classes such as:
-* Computational Social Science
-* Economic Sociology
-* Social Psychology
-* Statistics
-
-Last, but not least, I regularly teach with the [__Stanford Jail and Prison Education Program__](https://sjpep.weebly.com/).
-
 ## Data and Materials
 
 I wrote a helper function for loading Common Core Data from [__NCES' Elementary and Secondary Information System__](https://nces.ed.gov/ccd/elsi/). You can find the function [__here__](https://github.com/tylermcdaniel/tidy_elsi).
@@ -49,9 +52,9 @@ I strive to make my materials openly accessible wherever possible. Below are rep
 * [__Data and code__](https://purl.stanford.edu/sy352sf3635) for descriptive analyses on metropolitan residential racial segregation between 1980-2020.
 
 
-## Facts about Populations and the Environment
+## Other
 
-In the course of my research, I sometimes come across facts that are shocking, important, or otherwise things that people should maybe know. (Unfortunately, they are usually not fun). I use the space below to highlight some of these.  
+In the course of my research, I sometimes come across facts that are shocking, important, or otherwise things that people should maybe know. (Unfortunately, they are usually not fun). Here are a few:  
 
 * [__In North Carolina__](https://www.tandfonline.com/doi/full/10.1080/01944363.2022.2141821), new homes built in the floodplains outnumber homes subtracted from the floodplains by a margin of about 10:1.
 * [__On average__](https://www.nature.com/articles/s41586-024-07945-5), hurricanes cause about 24 direct deaths - but as many as 7,000-11,000 indirect deaths.
