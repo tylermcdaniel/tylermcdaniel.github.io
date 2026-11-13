@@ -1,5 +1,5 @@
 ## Bio
-I am a sociologist who studies the formation of spatial inequalities. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs.html) and an alumnus of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). In 2027, I will be a Visiting Assistant Professor in the [__Environmental Analysis__](https://www.scrippscollege.edu/departments/environmental-analysis-program) program at Scripps College. 
+I am a sociologist who studies the formation of spatial inequalities. I am a Postdoctoral Scholar at the [__Center for Population Health Sciences__](https://med.stanford.edu/phs.html) and an alumnus of the [__Changing Cities Research Lab__](https://ccrl.stanford.edu/). In 2027, I will be a Visiting Assistant Professor in the [__Environmental Analysis Program__](https://www.scrippscollege.edu/departments/environmental-analysis-program) at Scripps College. 
 
 ## Teaching
 In Spring 2027, I am teaching Introduction to Data Science with R and Environmental Demography. 
